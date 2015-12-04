@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;" />
+		<title>9 grids</title>
+	
+		<style type="text/css">
+			.grid {
+				background-color:orange;
+				width:30%;
+				height:30%;
+				float:left;
+				border-radius:10px;
+				margin:1%;
+			}
+		</style>
+	</head>
+	<body style="margin:0 auto; width:450px; height:450px;">
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+		<div class="grid"></div>
+	</body>
+</html>
